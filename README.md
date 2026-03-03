@@ -1,7 +1,3 @@
-Here’s a clean and professional **README.md** template for a **DSE (DesiSensex) Prediction Model** project. You can copy this directly into your GitHub repo and edit the details as needed.
-
----
-
 # 📈 DSE Index Prediction Model
 
 A Machine Learning based prediction model designed to forecast trends of the **Dhaka Stock Exchange (DSE)** index using historical market data and technical indicators.
